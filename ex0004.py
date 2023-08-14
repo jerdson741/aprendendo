@@ -1,1 +1,2 @@
-ex0004.py
+#exercicio numero 4 do guanabara
+print('so de teste')
